@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/xiaomi" name="MaheshTechnicals/android_device_xiaomi_oxygen" remote="github" revision="pixel" />
+
+    <project path="kernel/xiaomi/oxygen" name="MaheshTechnicals/Kernel_xiaomi_oxygen" remote="github" revision="lineage-16" />
+
+    <project path="vendor/xiaomi" name="MaheshTechnicals/android_vendor_oxygen" remote="github" revision="lineage" />
+</manifest>
