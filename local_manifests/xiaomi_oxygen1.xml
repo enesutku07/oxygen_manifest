@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <project path="device/xiaomi" name="MaheshTechnicals/android_device_xiaomi_oxygen" remote="github" revision="pixel" />
+    <project path="device/xiaomi" name="MaheshTechnicals/android_device_xiaomi_oxygen" remote="github" revision="SuperiorOS" />
 
     <project path="kernel/xiaomi/oxygen" name="enesutku07/Kernel_xiaomi_oxygen" remote="github" revision="lineage-16" />
 
